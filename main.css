@@ -30,3 +30,16 @@ th{
 .cell{
     border:1px solid #000000;
 }
+#row_id{
+    width:50px;
+}
+#row_name{
+    width:500px;
+}
+#row_version{
+    width:100px;
+}
+#row_date{
+    width:100px;
+    text-align:center;
+}
