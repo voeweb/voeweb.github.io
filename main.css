@@ -13,3 +13,7 @@ body{
   text-decoration:underline;
   font-weight:bold;
 }
+#content{
+  background-color:#ffffff;
+  padding:20px;
+}
