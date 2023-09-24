@@ -24,6 +24,9 @@ body{
     border:1px solid #000000;
     border-collapse:collapse;
 }
+th{
+    background-color:#bebebe;
+}
 .cell{
     border:1px solid #000000;
 }
