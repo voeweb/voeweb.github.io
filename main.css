@@ -9,5 +9,7 @@ body{
 }
 #headline{
   color:#ff0000;
-  font-size:24px;
+  font-size:36px;
+  text-decoration:underline;
+  font-weight:bold;
 }
